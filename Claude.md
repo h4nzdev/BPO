@@ -54,7 +54,7 @@
                     "secondary-fixed": "#65fade",
                     "secondary-container": "#65fade",
                     "on-primary": "#ffffff",
-                    "on-secondary-container": "#007262",
+                    "on-secondary-container": "#000000",
                     "primary": "#000615",
                     "background": "#f7f9fc",
                     "on-secondary": "#ffffff",

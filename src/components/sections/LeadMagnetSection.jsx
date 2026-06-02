@@ -23,17 +23,17 @@ export default function LeadMagnetSection() {
           <div>
             <span
               className="font-space-mono text-xs uppercase tracking-widest mb-4 block"
-              style={{ color: 'rgba(11,31,58,0.6)' }}
+              style={{ color: 'rgba(255,255,255,0.85)' }}
             >
               Free Resource
             </span>
             <h2
               className="font-syne font-bold mb-5 leading-tight"
-              style={{ fontSize: 'clamp(1.75rem, 3.5vw, 2.75rem)', color: 'var(--color-primary)' }}
+              style={{ fontSize: 'clamp(1.75rem, 3.5vw, 2.75rem)', color: '#FFFFFF' }}
             >
               Scale Your Business Efficiency
             </h2>
-            <p className="font-dm-sans text-base leading-relaxed mb-8" style={{ color: 'rgba(11,31,58,0.75)' }}>
+            <p className="font-dm-sans text-base leading-relaxed mb-8" style={{ color: 'rgba(255,255,255,0.9)' }}>
               Download our exclusive whitepaper on Operational Velocity: 10 strategies to optimize your BPO partnerships for measurable growth.
             </p>
 
@@ -41,8 +41,8 @@ export default function LeadMagnetSection() {
               <div
                 className="inline-flex items-center gap-3 px-6 py-4 font-dm-sans font-medium"
                 style={{
-                  background: 'rgba(11,31,58,0.15)',
-                  color: 'var(--color-primary)',
+                  background: 'rgba(255,255,255,0.2)',
+                  color: '#FFFFFF',
                   borderRadius: '4px',
                 }}
               >
@@ -58,9 +58,9 @@ export default function LeadMagnetSection() {
                   placeholder="Corporate email"
                   className="flex-1 px-5 py-3 font-dm-sans text-sm"
                   style={{
-                    background: 'rgba(11,31,58,0.12)',
-                    border: '1px solid rgba(11,31,58,0.2)',
-                    color: 'var(--color-primary)',
+                    background: 'rgba(255,255,255,0.15)',
+                    border: '1px solid rgba(255,255,255,0.3)',
+                    color: '#FFFFFF',
                     outline: 'none',
                     borderRadius: '4px',
                   }}
@@ -89,9 +89,9 @@ export default function LeadMagnetSection() {
               <div
                 className="p-8 w-56 h-72 flex flex-col justify-end shadow-2xl"
                 style={{
-                  background: 'rgba(11,31,58,0.15)',
+                  background: 'rgba(11,31,58,0.2)',
                   backdropFilter: 'blur(8px)',
-                  border: '1px solid rgba(255,255,255,0.25)',
+                  border: '1px solid rgba(255,255,255,0.3)',
                   borderRadius: '4px',
                 }}
               >
@@ -106,11 +106,11 @@ export default function LeadMagnetSection() {
                 </div>
                 <div
                   className="font-space-mono text-xs uppercase tracking-widest mb-3"
-                  style={{ color: 'rgba(11,31,58,0.55)' }}
+                  style={{ color: 'rgba(255,255,255,0.7)' }}
                 >
                   Whitepaper 2024
                 </div>
-                <div className="font-syne font-bold text-lg leading-tight" style={{ color: 'var(--color-primary)' }}>
+                <div className="font-syne font-bold text-lg leading-tight" style={{ color: '#FFFFFF' }}>
                   Operational<br />Velocity
                 </div>
               </div>
